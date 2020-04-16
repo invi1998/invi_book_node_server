@@ -1,5 +1,5 @@
 const resURL = 'http://101.200.121.107:9001'
-const mp3FilePath = 'D:/vue/mp3'
+const mp3FilePath = '/root/resource/mp3'
 
 const category = [
     'Biomedicine',
